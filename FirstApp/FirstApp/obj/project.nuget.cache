@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vxtsIEiKbPs1Pzwb/1XsnTBI8CjeazSJLUTXC9SyKmtEYcKhTu96FI3mVJbR2popB3KnrPNhzJdpBsEH6mhnSQ==",
+  "dgSpecHash": "UA5L/176KKkLqY9ngwOBgQQCb3G6uQSSCnGRZ0GqRp7ot0QEXkBpmeAsbQqxNEIzTLIlpbPjyKuUIRdRnJAn0w==",
   "success": true,
-  "projectFilePath": "F:\\Work\\GitTest\\FirstAppTest\\FirstApp\\FirstApp\\FirstApp.csproj",
+  "projectFilePath": "F:\\Work\\GitTest\\cloned\\FirstAppTest\\FirstApp\\FirstApp\\FirstApp.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://localhost/NugetServer/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }
